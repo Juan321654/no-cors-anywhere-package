@@ -1,4 +1,5 @@
 # set up:
+```npm i cors-anywhere```
 
 1. create a folder and add 
 ```
