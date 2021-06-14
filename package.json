@@ -1,0 +1,16 @@
+{
+  "name": "no-cors-anywhere-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cors-server" : "node server/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors-anywhere": "^0.4.4"
+  }
+}
