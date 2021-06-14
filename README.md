@@ -1,7 +1,7 @@
 # set up:
 ```npm i cors-anywhere```
 
-1. create a folder and add 
+1. create a folder ```server``` add a file ```server.js``` and add the following code
 ```
 // Listen on a specific host via the HOST environment variable
 var host = process.env.HOST || '0.0.0.0';
